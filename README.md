@@ -10,7 +10,8 @@
 <a href="https://instagram.com/ali_khazaei_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_khazaei_developer" height="30" width="40" /></a>
 </p>
 
-![bmw1](https://github.com/user-attachments/assets/27302c9f-7c14-426b-a820-95d67ddf62f6)
+![bmw1](https://github.com/user-attachments/assets/1e0fb527-f9dc-438c-871a-bc022cba52a4)
+
 
 
 ![bmw2](https://github.com/user-attachments/assets/e3c36748-c006-456f-832e-61e8b17ef177)
