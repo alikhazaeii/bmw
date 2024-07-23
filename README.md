@@ -1,6 +1,6 @@
 # bmw
 
-[Demo perojec](https://alikhazaeii.github.io/bmw/)
+[Demo peroject](https://alikhazaeii.github.io/bmw/)
 - 💬 Ask me about **html5,css3,react,tawilwind,bootstrap**
 
 - 📫 How to reach me **ali.tradding021@gmail.com**
