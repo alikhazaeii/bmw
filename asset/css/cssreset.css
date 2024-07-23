@@ -1,0 +1,27 @@
+*,*::after,*::before{
+  margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  width: 100%;
+  /* overflow-x: 0;     به خاطر هاور عکس سایت  */
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+  &:active{
+    color: inherit;
+  }
+  &:visited{
+    color: inherit;
+  }
+}
